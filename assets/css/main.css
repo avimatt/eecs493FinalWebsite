@@ -1,0 +1,26 @@
+.title_names {
+	padding-top: 41px;
+	padding-bottom: 41px;
+}
+
+.title_names h1{
+	font-size: 64px;
+}
+
+.title_names p{
+	font-size: 18px;
+}
+
+.header_center h2{
+	text-align: center;
+}
+
+.header_center div{
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.screenshots img{
+	height: 444;
+	width: 250;
+}
